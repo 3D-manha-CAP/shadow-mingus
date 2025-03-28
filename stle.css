@@ -55,3 +55,21 @@ css2family=Chakra+Petch:ital,wght@0,300;0,400;0,500;
     --cor-secundaria: #284260;
     --cor-destaque: #C92BFC;
 }
+    }
+    .mimi
+{
+        position:fixed;
+        top:2rem;
+        right:20px;
+        z-index: 100;
+    }
+    .rot{
+     transform-origin: right center;
+        transform: rotate(-90deg);
+    }
+    .opa{
+        margin-bottom: 8px;
+    }
+    .apl{
+display: none;
+    }
